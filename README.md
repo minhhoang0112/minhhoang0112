@@ -14,11 +14,14 @@
     <a href="https://github.com/minhhoang0112">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://github.com/minhhoang0112/Portfolio">
-      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <a href="https://github.com/minhhoang0112/labex-studio">
+      <img src="https://img.shields.io/badge/Labex_Studio-F59E0B?style=for-the-badge&logo=gnubash&logoColor=white" alt="Labex Studio" />
     </a>
     <a href="https://github.com/minhhoang0112/openlearn-platform">
       <img src="https://img.shields.io/badge/OpenLearn_Platform-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="OpenLearn" />
+    </a>
+    <a href="https://github.com/minhhoang0112/Portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 
@@ -29,9 +32,10 @@
 ### 👨‍💻 Về tôi (About Me)
 
 - 🎓 **Học vấn**: Sinh viên ngành Công nghệ thông tin — Trường Đại học Giao thông Vận tải TP.HCM (UTH).
-- 🖥️ **Hạ tầng & Hệ thống**: Thực hành cấu hình mô hình mạng doanh nghiệp & Quản trị hệ thống qua bài lab [**Enterprise Network & Windows Infra**](https://github.com/minhhoang0112/enterprise-network-windows-infrastructure) (Active Directory, GPO, DNS/DHCP, VLAN, Routing).
-- 💻 **Lập trình**: Xây dựng các dự án web cá nhân và ứng dụng thực hành với React, TypeScript và Node.js như [**OpenLearn Platform**](https://github.com/minhhoang0112/openlearn-platform).
-- 🎯 **Mục tiêu**: Tích lũy kinh nghiệm thực tế về vận hành hạ tầng CNTT, rèn luyện kỹ năng xử lý sự cố và tìm kiếm cơ hội thực tập **System / IT Support / Web Developer**.
+- 🧪 **Dự án thực hành (Tâm huyết)**: [**Labex Studio**](https://github.com/minhhoang0112/labex-studio) — Môi trường học và thực hành Linux tương tác trực tiếp (tích hợp Web Terminal qua xterm.js & node-pty, Docker/WSL cùng bộ kiểm tra bài tự động); dự án đang tiếp tục được hoàn thiện và mở rộng thêm nhiều bài lab luyện kỹ năng hệ thống & công nghệ mới.
+- 🖥️ **Hạ tầng & Hệ thống**: Thực hành mô hình mạng doanh nghiệp & Quản trị hệ thống qua bài lab [**Enterprise Network & Windows Infra**](https://github.com/minhhoang0112/enterprise-network-windows-infrastructure) (Active Directory, GPO, DNS/DHCP, VLAN, Routing).
+- 💻 **Ứng dụng Web**: Phát triển [**OpenLearn Platform**](https://github.com/minhhoang0112/openlearn-platform) — Website học tiếng Anh cá nhân với React, TypeScript, thuật toán lặp lại ngắt quãng (SRS) và trợ lý AI hội thoại.
+- 🎯 **Mục tiêu**: Tích lũy kiến thức và kỹ năng thực tế về vận hành hạ tầng CNTT, phát triển phần mềm và tìm kiếm cơ hội thực tập **System / IT Support / Web Developer**.
 
 ---
 
@@ -55,6 +59,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/minhhoang0112/labex-studio">🧪 Labex Studio</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-Vite-646CFF" />
+        <img src="https://img.shields.io/badge/Linux-Docker-E95420" />
+      </p>
+      <p>Nền tảng thực hành tương tác tự host: tích hợp Web Terminal (xterm.js + node-pty), Docker/WSL và hệ thống chấm bài tự động để luyện tập Linux và các công nghệ mới.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/minhhoang0112/enterprise-network-windows-infrastructure">🏢 Enterprise Network &amp; Windows Infra</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7" />
@@ -62,6 +74,8 @@
       </p>
       <p>Lab thực hành mô hình mạng doanh nghiệp: cấu hình VLAN, định tuyến liên VLAN, NAT/ACL trên Packet Tracer; quản trị domain Windows Server 2022, Active Directory, GPO và SMB/NTFS trên VMware.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/minhhoang0112/openlearn-platform">🌟 OpenLearn Platform</a></h3>
       <p align="center">
@@ -69,13 +83,6 @@
         <img src="https://img.shields.io/badge/AI-Gemini-purple" />
       </p>
       <p>Dự án web học tiếng Anh: hỗ trợ ôn tập từ vựng qua thuật toán ngắt quãng (SRS), luyện Shadowing với phụ đề và trợ lý AI hội thoại luyện nói.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/minhhoang0112/labex-studio">🎨 Labex Studio</a></h3>
-      <p align="center"><img src="https://img.shields.io/badge/JavaScript-Frontend-yellow" /></p>
-      <p>Không gian lưu trữ và thử nghiệm các tiện ích giao diện, components tương tác nhỏ phục vụ học tập.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/minhhoang0112/Portfolio">💼 Developer Portfolio</a></h3>
